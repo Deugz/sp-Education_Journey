@@ -33,7 +33,7 @@ s0.parentNode.insertBefore(s1,s0);
 <br>
 <br>
 
-:::{image} _static/Title/Encyclopedia-3.png
+:::{image} _static/Title/curiouschool.svg
 :width: 100%
 :::
 
@@ -43,11 +43,19 @@ s0.parentNode.insertBefore(s1,s0);
 <br>
 
 
-```{admonition} To Do
+# L'école ...
 
-- Commencer a travailler pour définir le concept
+<p class="emphase">De ceux qui sont curieux, et ont envie d'apprendre</p>
+
+```{note}
+
+- Define the project (extract from jb-astro)
+
+- Extraire classer et implémenter OU Open Course
 
 ```
+
+
 
 
 
