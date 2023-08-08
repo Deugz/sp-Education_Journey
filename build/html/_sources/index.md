@@ -47,5 +47,28 @@ s0.parentNode.insertBefore(s1,s0);
 
 <p class="emphase">De ceux qui sont curieux, et ont envie d'apprendre</p>
 
+```{note}
+
+- Define the project (extract from jb-astro)
+
+- Extraire classer et implémenter OU Open Course
+
+```
+
+
+
+<h1> Comments </h1>
+
+
+<script src="https://utteranc.es/client.js"
+        repo="Deugz/sp-Education_Journey"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+
 
 

@@ -16,7 +16,7 @@ release = '0.0.1'
 
 comments_config = {
    "utterances": {
-      "repo": "https://github.com/Deugz/Encyclopedia-Home",
+      "repo": "https://github.com/Deugz/sp-Education_Journey",
       "optional": "config",
    }
 }
@@ -52,11 +52,12 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints"]
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'pydata_sphinx_theme'
-html_logo = "_static/Logo/Encyclopedia-logo.png"
-html_favicon = "_static/Logo/Encyclopedia-logo.png"
+html_logo = "_static/Logo/logo_SFTP.png"
+html_favicon = "_static/Logo/logo_SFTP.png"
 html_static_path = ['_static']
 
 html_theme_options = {
+    "analytics": {"google_analytics_id": "G-YJLM4C4S2Q"},
     "external_links": [
         {
             "url": "https://deugz.github.io/jb-astronomy/_build/html/intro.html",
@@ -125,11 +126,16 @@ html_theme_options = {
             "url": "https://deugz.github.io/nb-tools/_build/html/intro.html",
             "icon": "fa-solid fa-screwdriver-wrench",
         },
+        {
+            "name": "Forum",
+            "url": "https://deugz.github.io",
+            "icon": "fa-solid fa-comments",
+        },
     ],
     
 
     "logo": {
-        "text": " &nbsp V. Deguin &nbsp ",
+        "text": " &nbsp CuriouSchool &nbsp ",
         "image_dark": "_static/Logo/logo_SFTP.png",
         "alt_text": " &nbsp V. Deguin &nbsp &nbsp",
     },
