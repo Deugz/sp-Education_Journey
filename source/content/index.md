@@ -12,15 +12,26 @@ Introduction/Roadmap
 
 ```{toctree}
 :maxdepth: 2
-:caption: Sections
+:caption: Theory
 :hidden:
 
 Sections/Panorama
-Sections/Science
-Sections/Education
-Sections/Music
-Sections/Pharma
-Sections/Societe
+Sections/Astronomy
+Sections/Physique
+Sections/Chemistry
+Sections/Biology
+Sections/Open-Science
+
+
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: Practicle
+:hidden:
+
+Sections/Python
+Sections/Web-dev
 
 
 ```
@@ -57,6 +68,12 @@ To correct the formatting issues
 
 
 ```
+
+## Inclure
+
+- Rapport pour un numérique au service des savoirs 
+
+
 
 ## Bitesize tutorials
 

@@ -12,15 +12,26 @@ Introduction/Roadmap
 
 ```{toctree}
 :maxdepth: 2
-:caption: Sections
+:caption: Theory
 :hidden:
 
 Sections/Panorama
-Sections/Science
-Sections/Education
-Sections/Music
-Sections/Pharma
-Sections/Societe
+Sections/Astronomy
+Sections/Physique
+Sections/Chemistry
+Sections/Biology
+Sections/Open-Science
+
+
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: Practicle
+:hidden:
+
+Sections/Python
+Sections/Web-dev
 
 
 ```
@@ -49,6 +60,20 @@ This page is an introduction for the teaching material.
 Not everybody learn the same way, nor at the same pace and the current mainstream teaching method (every-body sat in a classroom taking notes dicted by the teacher), appear to me extremely old-fashioned, boring and unproductive.
 
 ***
+
+
+```{note}
+
+To correct the formatting issues
+
+
+```
+
+## Inclure
+
+- Rapport pour un numérique au service des savoirs 
+
+
 
 ## Bitesize tutorials
 

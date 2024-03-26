@@ -43,9 +43,33 @@ s0.parentNode.insertBefore(s1,s0);
 <br>
 
 
-# L'école ...
+::::{grid} 2
+
+:::{grid-item}
+:columns: 4
+
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets4.lottiefiles.com/packages/lf20_ybiszbil.json"  background="transparent"  speed="1"  style="width: 260px; height: 260px;" hover   ></lottie-player>
+
+
+:::
+
+:::{grid-item}
+:columns: 8
+
+
+
+<h1> L'école ... </h1>
 
 <p class="emphase">De ceux qui sont curieux, et ont envie d'apprendre</p>
+
+
+
+
+:::
+::::
+
 
 ```{note}
 
@@ -54,6 +78,10 @@ s0.parentNode.insertBefore(s1,s0);
 - Extraire classer et implémenter OU Open Course
 
 ```
+
+
+## Introduction
+
 
 
 
