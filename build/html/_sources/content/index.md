@@ -41,6 +41,7 @@ Sections/Web-dev
 :caption: Appendix
 :hidden:
 
+Appendix/Ressources
 Appendix/to-check
 
 ```

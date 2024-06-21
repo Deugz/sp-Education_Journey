@@ -60,6 +60,11 @@ html_theme_options = {
     "analytics": {"google_analytics_id": "G-YJLM4C4S2Q"},
     "external_links": [
         {
+            "url": "https://deugz.github.io/jb-Learning-Planet/_build/html/intro.html",
+            "name": "&nbsp &nbsp &nbsp &nbsp 🌍 Learning Planet",
+            "attributes": {"target": "_blank"},
+        },
+        {
             "url": "https://deugz.github.io/jb-astronomy/_build/html/intro.html",
             "name": "&nbsp &nbsp &nbsp &nbsp 💫 Astronomy",
             "attributes": {"target": "_blank"},

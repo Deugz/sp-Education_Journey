@@ -11,6 +11,364 @@ Research
 
 ***
 
+
+## Introduction
+
+### 10 idées reçues sur le Numérique
+
+
+```{note}
+
+L'objectifs est de reprendre ici les différentes conférences présentés sur [Trousse a Projet](https://tne.trousseaprojets.fr/professionnel-education-nationale/idees-recues-sur-le-numerique)
+
+
+```
+
+:::::::{dropdown} Les jeunes, tous à l'aise avec les équipements numériques ?
+
+::::::{tab-set} 
+:::::{tab-item} Présentation
+
+<div class="embedresize">
+<iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/5hLrwhUEFlU?si=IrK4zC1_AaYI9RDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+:::::
+
+:::::{tab-item} Information clés
+
+L’idée reçue que les jeunes seraient tous à l’aise avec les équipements découle selon Éric Bruillard d’une gêne des adultes, qui sont obligés d’admettre qu’ils sont moins à l’aise avec les technologies que leurs enfants/élèves, et donc leur octroient des compétences numériques innées (digital natives).
+
+Or cela est faux, tous les jeunes ne maîtrisent pas les technologies, leur rapport au numérique dépend de variables sociale et psychologique.
+
+Les technologies sont un réel marqueur générationnel. Chaque génération est née avec des technologies/cultures numériques différentes. Les nouvelles générations ont développé une culture de la découverte alors que les anciennes générations ont plutôt une culture du mode d’emploi.
+
+Les jeunes ont la capacité à apprendre rapidement, ce que les équipes marketing ont bien compris, en diffusant l’idée que les technologies sont intuitives, ce qu’elles ne sont pas. Le système éducatif, conscient de ces nouvelles capacités, se transforme mais attention de ne pas confondre apprentissage et dressage. En effet, lorsqu’il s’agit des usages du numérique, nous tombons dans une culture de l’immédiateté impulsée par les outils numériques.
+
+Eric Bruillard parle d’un manque d’enseignement de techniques favorisant l’apprentissage. Cela conduit à un manque de compétences, à des mimétismes de la part des élèves et non pas à une réelle compréhension des mécanismes derrière les technologies, d’où des difficultés à les utiliser en dehors du côté communautaire, ludique et consumériste.
+
+L’usage scolaire doit donc permettre une prise de recul, un temps de réflexion avant l’usage de technologies numériques. L’École et les autres temps éducatifs peuvent se permettre de prendre le temps, de détourner les technologies, les explorer sans risque, dans un milieu sécurisé et sécurisant.
+
+:::::
+
+:::::{tab-item} Etudes et chiffres
+
+La plupart des jeunes sont très équipés, mais cet équipement varie selon le type (Source CREDOC, Baromètre du numérique, édition 2021) :
+
+- Smartphone : 92% des 12/17 ans
+- Tablette : 57 % des 12/17 ans
+- Ordinateur : 90% des 12/17 ans
+
+Les jeunes ne développent pas des compétences numériques sophistiquées juste en grandissant avec des équipements numériques (Source International Computer and Information Literacy Study 2018) 
+
+- Seuls 21% des étudiants ont atteint les deux niveaux supérieurs de l’échelle C.I.L (Computer and Information Literacy), montrant ainsi qu’ils avaient la capacité de travailler de manière autonome lorsqu’ils utilisaient l’ordinateur comme outil de collecte et de gestion de l’information ;
+- Seuls 2 % des élèves ayant participé à l’étude ont atteint le plus haut niveau de compétence en matière de C.I.L, montrant qu’ils pouvaient exercer un contrôle et un jugement évaluatif lors de la recherche d’informations en ligne et de la création de présentations informatives.
+
+Il existe un fossé numérique associé au statut socio-économique des étudiants. (Source International Computer and Information Literacy Study 2018)
+
+- En moyenne, les élèves issus de milieux socio-économiques plus élevés (mesurés par la profession des parents, le niveau d’éducation des parents et le nombre de livres à la maison) ont obtenu des résultats significativement plus élevés au C.I.L.
+
+:::::
+
+:::::{tab-item} Conseils
+
+- Le numérique n’est pas une simple question technique, elle est aussi culturelle. Il faut mettre en place des **lieux d’échanges** autour du numérique et des usages.
+
+- L’école doit permettre une certaine **prise de distance** par rapport aux technologies, les élèves doivent expérimenter des **phases de production** (création de site web, montage d’une vidéo, réalisation de tâches concrètes sur un tableur) et non pas seulement de consommation.
+
+- Elle doit également permettre un usage tourné vers la performance mais, dans un univers plus critique, plus détourné. Cela est essentiel à l’apprentissage.
+
+- Aussi, l’approche par le droit (dire ce qui est permis, interdit par la loi) n’est pas bonne pour renforcer la maîtrise des outils technologies. Il faut plutôt mener les jeunes à les utiliser, voire les détourner dans différents contextes, dans un cadre sécurisé, pour ensuite en tirer différents apports pédagogiques.
+
+- Le rôle de l’école est d’ouvrir les possibles !
+
+:::::
+
+::::::
+
+:::::::
+
+<br>
+
+:::::::{dropdown} Rien de mieux qu'un écran pour calmer son enfant ? 
+
+::::::{tab-set} 
+:::::{tab-item} Présentation
+
+<div class="embedresize">
+<iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/Ov4cWPl8EUQ?si=6FqkTzv52n7YKPn1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+:::::
+
+:::::{tab-item} Information clés
+
+:::::
+
+:::::{tab-item} Etudes et chiffres
+
+
+:::::
+
+:::::{tab-item} Conseils
+
+
+:::::
+
+::::::
+
+:::::::
+
+<br>
+
+:::::::{dropdown} Le numérique facilite-t-il les apprentissages ?
+
+::::::{tab-set} 
+:::::{tab-item} Présentation
+
+<div class="embedresize">
+<iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/AieP6IUyIpk?si=Nt5j_ZVKWkIBI2MS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+:::::
+
+:::::{tab-item} Information clés
+
+:::::
+
+:::::{tab-item} Etudes et chiffres
+
+
+:::::
+
+:::::{tab-item} Conseils
+
+
+:::::
+
+::::::
+
+:::::::
+
+<br>
+
+:::::::{dropdown} Les jeunes ne se soucient pas de leur vie privée en ligne ?
+
+::::::{tab-set} 
+:::::{tab-item} Présentation
+
+<div class="embedresize">
+<iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/phvcgg0Yqa0?si=BShXMmIhyfjD7YIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+:::::
+
+:::::{tab-item} Information clés
+
+:::::
+
+:::::{tab-item} Etudes et chiffres
+
+
+:::::
+
+:::::{tab-item} Conseils
+
+
+:::::
+
+::::::
+
+:::::::
+
+<br>
+
+:::::::{dropdown} Pas besoin d’appareils numériques à l’école, il y en a bien assez à la maison ?
+
+::::::{tab-set} 
+:::::{tab-item} Présentation
+
+<div class="embedresize">
+<iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/9MuWUS6lvl8?si=R1KkXH6bhbyUWgwn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+:::::
+
+:::::{tab-item} Information clés
+
+:::::
+
+:::::{tab-item} Etudes et chiffres
+
+
+:::::
+
+:::::{tab-item} Conseils
+
+
+:::::
+
+::::::
+
+:::::::
+
+<br>
+
+:::::::{dropdown} Les élèves ne s’informent-ils plus, ou pire, s’informent-ils mal ?
+
+::::::{tab-set} 
+:::::{tab-item} Présentation
+
+<div class="embedresize">
+<iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/C1d1Khp3l88?si=rXoZuiQKnmy_rme8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+:::::
+
+:::::{tab-item} Information clés
+
+:::::
+
+:::::{tab-item} Etudes et chiffres
+
+
+:::::
+
+:::::{tab-item} Conseils
+
+
+:::::
+
+::::::
+
+:::::::
+
+<br>
+
+:::::::{dropdown} Les outils numériques facilitent-ils la vie de tous les parents ?
+
+::::::{tab-set} 
+:::::{tab-item} Présentation
+
+<div class="embedresize">
+<iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/gfUypif8RLU?si=FerCVnxqa0z8xGuu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+:::::
+
+:::::{tab-item} Information clés
+
+:::::
+
+:::::{tab-item} Etudes et chiffres
+
+
+:::::
+
+:::::{tab-item} Conseils
+
+
+:::::
+
+::::::
+
+:::::::
+
+<br>
+
+:::::::{dropdown} Le numérique fait-il baisser le niveau des élèves ?
+
+::::::{tab-set} 
+:::::{tab-item} Présentation
+
+<div class="embedresize">
+<iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/rUjAb5afc1Q?si=TRTcJVGXGMCSyjTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+:::::
+
+:::::{tab-item} Information clés
+
+:::::
+
+:::::{tab-item} Etudes et chiffres
+
+
+:::::
+
+:::::{tab-item} Conseils
+
+
+:::::
+
+::::::
+
+:::::::
+
+<br>
+
+:::::::{dropdown} Le numérique, c'est que pour les garçons ?
+
+::::::{tab-set} 
+:::::{tab-item} Présentation
+
+<div class="embedresize">
+<iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/gydzYNdDb1k?si=bbx-eGRgYGOPKF_t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+:::::
+
+:::::{tab-item} Information clés
+
+:::::
+
+:::::{tab-item} Etudes et chiffres
+
+
+:::::
+
+:::::{tab-item} Conseils
+
+
+:::::
+
+::::::
+
+:::::::
+
+<br>
+
+:::::::{dropdown} Le cyberharcèlement, c’est la faute des réseaux sociaux ?
+
+::::::{tab-set} 
+:::::{tab-item} Présentation
+
+<div class="embedresize">
+<iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/vvXB-XZDCxs?si=K-MkaTZxwbwJwgXZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+:::::
+
+:::::{tab-item} Information clés
+
+:::::
+
+:::::{tab-item} Etudes et chiffres
+
+
+:::::
+
+:::::{tab-item} Conseils
+
+
+:::::
+
+::::::
+
+:::::::
+
+
 <p class="emphase">Making Learning and Teaching</p>
 
 ##  A Fun Activity
